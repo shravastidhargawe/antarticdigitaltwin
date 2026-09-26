@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "name": "antarctic-digital-twin",
+  "cleanUrls": true,
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/index.html"
+    }
+  ]
+}
